@@ -1,4 +1,4 @@
-# Debugger-plus-plus
+# Debugger++
 A very simple debugger written in C++ for windows. 
 * Designed to learn more about debuggers
 * Breakpoint
